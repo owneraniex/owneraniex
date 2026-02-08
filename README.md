@@ -1,49 +1,41 @@
 <div align="center">
-  
-  <h1>Hi, I'm <a href="https://citadeldev-labs.github.io">Nayeem Sarkar</a></h1>
-  
-  <h3>The Architect of Citadel | Owner Aniex</h3>
+<pre>
+<code style="font-family: 'Fira Code', 'Courier New', monospace">
+  _   _                                     _____              
+ | \ | | __ _ _   _  ___  ___ _ __ ___     |  __ \             
+ |  \| |/ _` | | | |/ _ \/ _ \ '_ ` _ \    | |  | | _____   __ 
+ | |\  | (_| | |_| |  __/  __/ | | | | |   | |__| |/ _ \ \ / / 
+ |_| \_|\__,_|\__, |\___|\___|_| |_| |_|   |_____/ \___|\ V /  
+              |___/                                      \_/   
 
-  <p>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/TitanDL-Architecture-black?style=for-the-badge" />
-  </p>
-
-  <p>
-     <em>"Forging sovereign digital ecosystems."</em>
-  </p>
-
+      :: ARCHITECT OF CITADEL  ::  PRIME DIRECTIVE: SOVEREIGNTY 
+</code>
+</pre>
 </div>
 
----
-
-### ⚡ The Armory (Tech Stack)
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++23
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>AI / ML
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51907922ee98.png" alt="Git" width="65" height="65" />
-      <br>DevOps
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="65" height="65" />
-      <br>Systems
-    </td>
-  </tr>
-</table>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owneraniex&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owneraniex&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+```text
+ ________________________________________________________________________________
+|                                                                                |
+|  > SYSTEM_IDENTITY                                                             |
+|  ----------------------------------------------------------------------------  |
+|  USER_ID       : Nayeem Sarkar                                                 |
+|  KNOWN_ALIAS   : Owner Aniex                                                   |
+|  CURRENT_RANK  : C++ Architect // Citadel Founder                              |
+|  LOCATION      : Dhaka, Bangladesh [Sector 880]                                |
+|  STATUS        : ONLINE                                                        |
+|________________________________________________________________________________|
+|                                                                                |
+|  > CORE_COMPETENCIES (MEMORY_ALLOCATION)                                       |
+|  ----------------------------------------------------------------------------  |
+|  [||||||||||||||||||||] 99%  C++ (STD::23 / LOW-LEVEL)                         |
+|  [||||||||||||||||||  ] 90%  SYSTEM ARCHITECTURE (TITAN_DL)                    |
+|  [||||||||||||||||    ] 85%  ARTIFICIAL INTELLIGENCE (LLM TUNING)              |
+|  [||||||||||||        ] 60%  CRYPTOGRAPHY & REVERSE ENGINEERING                |
+|________________________________________________________________________________|
+|                                                                                |
+|  > CURRENT_OPERATIONS (ACTIVE_THREADS)                                         |
+|  ----------------------------------------------------------------------------  |
+|  * PROJECT: TITAN_DL   >>  [OPTIMIZING PACKET STREAMING...]                    |
+|  * PROJECT: NEBBAL     >>  [NETWORK RECONNAISSANCE TOOL]                       |
+|  * PROJECT: CITADEL    >>  [CONSTRUCTING DIGITAL FORTRESS]                     |
+|________________________________________________________________________________|
