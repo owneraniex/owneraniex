@@ -1,71 +1,132 @@
 <div align="center">
 
-  <br />
-
-  <!-- WEBSITE HERO SECTION -->
-  <h1>Nayeem Sarkar</h1>
-  <p><b>Founder & Principal Architect at Citadel</b></p>
-  <p><sub>Designing sovereign digital infrastructure, low-latency C++ systems, and optimized neural compute.</sub></p>
-
-  <!-- MONOCHROME UI PILLS -->
+  <!-- TOP STATUS BAR -->
   <p>
-    <img src="https://img.shields.io/badge/Architecture-C++23-18181B?style=flat-square&labelColor=09090B&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-Systems_&_AI-18181B?style=flat-square&labelColor=09090B" />
-    <img src="https://img.shields.io/badge/Base-Dhaka,_BD-18181B?style=flat-square&labelColor=09090B" />
-    <img src="https://img.shields.io/badge/Status-Building_Citadel-10B981?style=flat-square&labelColor=09090B" />
+    <img src="https://img.shields.io/badge/CITADEL-CORE_ARCHITECT-18181B?style=flat-square&labelColor=09090B" />
+    <img src="https://img.shields.io/badge/RUNTIME-C++23_%7C_JVM-18181B?style=flat-square&labelColor=09090B" />
+    <img src="https://img.shields.io/badge/LOC-DHAKA,_BD_(UTC+6)-18181B?style=flat-square&labelColor=09090B" />
+    <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-10B981?style=flat-square&labelColor=09090B" />
   </p>
 
-  <br />
+  <h1>Nayeem Sarkar</h1>
+  <p><b>Systems Architect · C++ & Java Engineer · Founder @ Citadel</b></p>
+  
 </div>
 
-<!-- 2x2 BENTO GRID (WEBSITE CARDS) -->
+<br />
+
+<!-- ASYMMETRIC BENTO GRID -->
 <table width="100%">
+  <!-- BENTO ROW 1: FULL-WIDTH OVERVIEW CARD -->
   <tr>
-    <td width="50%" valign="top">
-      <h3>01 // Systems Engineering</h3>
-      <p>Architecting deterministic, high-throughput software close to the metal. Focused on modern C++ standards, memory-safe concurrency, and zero-overhead execution pipelines.</p>
-      <p><kbd>C++23</kbd> <kbd>Memory Models</kbd> <kbd>Concurrency</kbd> <kbd>Linux Kernel</kbd></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 // Sovereign Infrastructure</h3>
-      <p>Leading <b>Citadel</b>—an engineering initiative dedicated to building resilient, self-sovereign digital infrastructure and fault-tolerant core architecture from first principles.</p>
-      <p><kbd>Distributed Systems</kbd> <kbd>Zero-Trust</kbd> <kbd>Core Infra</kbd></p>
+    <td colspan="2" valign="top">
+      <h3><code>// OVERVIEW</code></h3>
+      <p>
+        I build latency-critical native software, high-concurrency backend systems, and sovereign infrastructure under <b>Citadel</b>. My day-to-day work spans low-level <b>C++23</b> systems programming, high-throughput <b>Java (JVM)</b> services, binary reverse engineering, and local LLM inference optimization.
+      </p>
+      <p>
+        <b>Current Focus:</b> Lock-free concurrency, custom network transport protocols, GraalVM/JVM performance tuning, and quantized neural execution on consumer hardware.
+      </p>
     </td>
   </tr>
+
+  <!-- BENTO ROW 2: C++ & JAVA PILLARS (50% / 50%) -->
   <tr>
     <td width="50%" valign="top">
-      <h3>03 // Machine Intelligence</h3>
-      <p>Pushing the efficiency boundaries of large language models through parameter-efficient fine-tuning, quantized local inference, and low-level compute optimization.</p>
-      <p><kbd>LLM Tuning</kbd> <kbd>Inference Engines</kbd> <kbd>CUDA / Compute</kbd></p>
+      <h3><code>01</code> Native Systems (C++ / C)</h3>
+      <ul>
+        <li><b>Standards:</b> Modern <code>C++23</code>, STL, templates & compile-time execution (<code>constexpr</code>).</li>
+        <li><b>Memory & Perf:</b> Custom arena allocators, cache-aligned data structures, SIMD vectorization.</li>
+        <li><b>Networking & I/O:</b> Asynchronous event loops, raw sockets, <code>epoll</code> / <code>io_uring</code> pipelines.</li>
+        <li><b>Toolchain:</b> <code>Clang/LLVM</code>, <code>GCC</code>, <code>CMake</code>, <code>Ninja</code>, <code>GDB</code>, <code>Valgrind</code>.</li>
+      </ul>
+      <p><kbd>C++23</kbd> <kbd>C</kbd> <kbd>POSIX</kbd> <kbd>Multithreading</kbd> <kbd>CMake</kbd></p>
     </td>
     <td width="50%" valign="top">
-      <h3>04 // Cryptography & Security</h3>
-      <p>Deep-level binary introspection, reverse engineering, and the implementation of hardened cryptographic primitives for secure data transport.</p>
-      <p><kbd>Reverse Engineering</kbd> <kbd>Binary Analysis</kbd> <kbd>Applied Crypto</kbd></p>
+      <h3><code>02</code> High-Throughput JVM (Java)</h3>
+      <ul>
+        <li><b>Core Platform:</b> Modern <code>Java 21+</code>, JVM memory model, bytecode-level optimization.</li>
+        <li><b>Concurrency:</b> Project Loom (Virtual Threads), <code>java.util.concurrent</code>, non-blocking architectures.</li>
+        <li><b>Runtime & GC:</b> Low-pause garbage collection tuning (<code>ZGC</code> / <code>G1GC</code>) & <code>GraalVM</code> native images.</li>
+        <li><b>Backend & Net:</b> High-concurrency RPC services, <code>Netty</code> event-driven transport, distributed state.</li>
+      </ul>
+      <p><kbd>Java 21</kbd> <kbd>JVM Internals</kbd> <kbd>Netty</kbd> <kbd>GraalVM</kbd> <kbd>Spring</kbd></p>
+    </td>
+  </tr>
+
+  <!-- BENTO ROW 3: AI COMPUTE & SECURITY (50% / 50%) -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3><code>03</code> AI Compute & LLM Infrastructure</h3>
+      <ul>
+        <li><b>Inference:</b> Low-level C++/CUDA execution engines, <code>llama.cpp</code> integration, KV-cache optimization.</li>
+        <li><b>Quantization:</b> Running 4-bit/8-bit quantized weights (<code>GGUF</code>, <code>AWQ</code>) with minimal perplexity loss.</li>
+        <li><b>Fine-Tuning:</b> Parameter-efficient tuning (<code>LoRA</code> / <code>QLoRA</code>) for domain-specific code & reasoning models.</li>
+      </ul>
+      <p><kbd>PyTorch</kbd> <kbd>CUDA</kbd> <kbd>llama.cpp</kbd> <kbd>GGUF</kbd> <kbd>QLoRA</kbd></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><code>04</code> Security & Reverse Engineering</h3>
+      <ul>
+        <li><b>Binary Analysis:</b> Static & dynamic instrumentation of <code>ELF</code> / <code>PE</code> binaries and shared libraries.</li>
+        <li><b>Introspection:</b> Decompilation, control-flow recovery, and memory inspection via <code>Ghidra</code> & <code>x64dbg</code>.</li>
+        <li><b>Cryptography:</b> Zero-trust transport layers, authenticated encryption, and protocol hardening.</li>
+      </ul>
+      <p><kbd>Reverse Engineering</kbd> <kbd>Ghidra</kbd> <kbd>x86_64 ASM</kbd> <kbd>Applied Crypto</kbd></p>
+    </td>
+  </tr>
+
+  <!-- BENTO ROW 4: FULL-WIDTH TECH STACK & ENVIRONMENT -->
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <br />
+      <p><sub><b>LANGUAGES, RUNTIMES & DEVELOPMENT ENVIRONMENT</b></sub></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cpp,java,c,py,rust,linux,cmake,docker,git,postgres,redis,neovim&theme=dark&perline=12" />
+      </p>
+      <br />
+    </td>
+  </tr>
+
+  <!-- BENTO ROW 5: LIVE TELEMETRY / STATS -->
+  <tr>
+    <td width="50%" valign="middle" align="center">
+      <img src="https://streak-stats.demolab.com?user=ownernaniex&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" width="100%" alt="GitHub Streak" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><code>// SYSTEM_SPECIFICATIONS</code></h3>
+      <table>
+        <tr>
+          <td><b>Handle</b></td>
+          <td><code>@ownernaniex</code> (Aniex)</td>
+        </tr>
+        <tr>
+          <td><b>Organization</b></td>
+          <td>Citadel Architecture</td>
+        </tr>
+        <tr>
+          <td><b>OS / Kernel</b></td>
+          <td>Linux (x86_64)</td>
+        </tr>
+        <tr>
+          <td><b>Primary Compilers</b></td>
+          <td><code>clang++</code>, <code>g++</code>, <code>javac</code></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
-<br />
-
-<!-- TECH STACK BAR -->
-<div align="center">
-  <p><sub><b>CORE TECHNOLOGIES & ENVIRONMENT</b></sub></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,rust,linux,docker,git,cmake&theme=dark" />
-  </p>
-</div>
-
 <hr />
 
-<!-- WEBSITE FOOTER -->
+<!-- FOOTER -->
 <table width="100%">
   <tr>
     <td align="left">
-      <sub><b>NAYEEM SARKAR (ANIEX)</b> · CITADEL ARCHITECTURE</sub>
+      <sub><b>NAYEEM SARKAR</b> // CITADEL</sub>
     </td>
     <td align="right">
-      <sub>SOVEREIGN SYSTEMS ENGINEERING</sub>
+      <sub><code>C++23</code> · <code>JAVA</code> · <code>SYSTEMS</code> · <code>SECURITY</code></sub>
     </td>
   </tr>
 </table>
