@@ -88,45 +88,27 @@
     </td>
   </tr>
 
-  <!-- BENTO ROW 5: LIVE TELEMETRY / STATS -->
+  <!-- BENTO ROW 5: LIVE TELEMETRY & CLEAN SPECS (NO DOUBLE BORDERS) -->
   <tr>
     <td width="50%" valign="middle" align="center">
-      <img src="https://streak-stats.demolab.com?user=ownernaniex&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" width="100%" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=owneraniex&theme=dark&hide_border=true&background=00000000&ring=10B981&fire=10B981&currStreakLabel=10B981" width="100%" alt="GitHub Streak" />
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="middle">
       <h3><code>// SYSTEM_SPECIFICATIONS</code></h3>
-      <table>
-        <tr>
-          <td><b>Handle</b></td>
-          <td><code>@ownernaniex</code> (Aniex)</td>
-        </tr>
-        <tr>
-          <td><b>Organization</b></td>
-          <td>Citadel Architecture</td>
-        </tr>
-        <tr>
-          <td><b>OS / Kernel</b></td>
-          <td>Linux (x86_64)</td>
-        </tr>
-        <tr>
-          <td><b>Primary Compilers</b></td>
-          <td><code>clang++</code>, <code>g++</code>, <code>javac</code></td>
-        </tr>
-      </table>
+      <p>
+        <code>HANDLE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> &nbsp; <b>@owneraniex</b> (Aniex)<br />
+        <code>ORGANIZATION&nbsp;</code> &nbsp; Citadel Architecture<br />
+        <code>ENVIRONMENT&nbsp;&nbsp;</code> &nbsp; Linux (x86_64 / Wayland)<br />
+        <code>COMPILERS&nbsp;&nbsp;&nbsp;&nbsp;</code> &nbsp; <code>clang++</code> · <code>g++</code> · <code>javac</code><br />
+        <code>EDITOR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> &nbsp; Neovim / JetBrains
+      </p>
     </td>
   </tr>
 </table>
 
-<hr />
+<br />
 
-<!-- FOOTER -->
-<table width="100%">
-  <tr>
-    <td align="left">
-      <sub><b>NAYEEM SARKAR</b> // CITADEL</sub>
-    </td>
-    <td align="right">
-      <sub><code>C++23</code> · <code>JAVA</code> · <code>SYSTEMS</code> · <code>SECURITY</code></sub>
-    </td>
-  </tr>
-</table>
+<!-- CLEAN BORDERLESS FOOTER -->
+<div align="center">
+  <sub><b>NAYEEM SARKAR</b> // CITADEL ARCHITECTURE &nbsp;·&nbsp; <code>C++23</code> &nbsp;·&nbsp; <code>JAVA</code> &nbsp;·&nbsp; <code>SYSTEMS</code> &nbsp;·&nbsp; <code>SECURITY</code></sub>
+</div>
