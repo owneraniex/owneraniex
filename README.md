@@ -96,7 +96,7 @@
     <td width="50%" valign="middle">
       <h3><code>// SYSTEM_SPECIFICATIONS</code></h3>
       <p>
-        <code>HANDLE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> &nbsp; <b>@owneraniex</b> (Aniex)<br />
+        <code>HANDLE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> &nbsp; <b>@owneraniex</b> (NayeemDev)<br />
         <code>ORGANIZATION&nbsp;</code> &nbsp; Citadel Architecture<br />
         <code>ENVIRONMENT&nbsp;&nbsp;</code> &nbsp; Linux (x86_64 / Wayland)<br />
         <code>COMPILERS&nbsp;&nbsp;&nbsp;&nbsp;</code> &nbsp; <code>clang++</code> · <code>g++</code> · <code>javac</code><br />
