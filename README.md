@@ -9,7 +9,7 @@
   </p>
 
   <h1>Nayeem Sarkar</h1>
-  <p><b>Systems Architect · C++ & Java Engineer · Founder @ Citadel Venture</b></p>
+  <p><b>Systems Architect · C++ & Java Engineer · Founder @ Cita Venture</b></p>
   
 </div>
 
